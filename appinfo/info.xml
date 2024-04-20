@@ -3,17 +3,12 @@
 	<id>files_urlshortcut</id>
 	<name>URL Shortcut Extension</name>
 	<namespace>Files_URLShortcut</namespace>
-	<summary></summary>
+	<summary>Handle short cut files on the fly</summary>
 	<description>This application enables users to open URL shortcut files in the file view.
 	</description>
 	<licence>AGPL</licence>
 	<author>Paul Rosenberg</author>
-	<version>0.0.1</version>
-	<documentation>
-		<user>https://github.com/prsnbrg/files_urlshortcut/blob/master/README.md</user>
-		<admin>https://github.com/prsnbrg/files_urlshortcut/blob/master/README.md</admin>
-		<developer>https://github.com/prsnbrg/files_urlshortcut/blob/master/README.md</developer>
-	</documentation>
+	<version>0.1.0</version>
 	<category>productivity</category>
 	<category>files</category>
 	<category>tools</category>
@@ -22,6 +17,6 @@
 	<repository type="git">https://github.com/prsnbrg/files_urlshortcut.git</repository>
 	<dependencies>
 		<owncloud min-version="10" max-version="10" />
-        <php min-version="7.4" />
+        	<php min-version="7.4" />
 	</dependencies>
 </info>

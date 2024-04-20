@@ -6,8 +6,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased] -
 
+- Initial release
 
 
-
-[Unreleased]: https://github.com/owncloud/files_texteditor/compare/v2.6.1...master
-[2.2.1]: https://github.com/owncloud/files_texteditor/compare/v2.2...v2.2.1
+[Unreleased]: https://github.com/prsnbrg/files_urlshortcut/compare/v0.1.0...main
